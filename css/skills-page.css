@@ -1,0 +1,25 @@
+.progress {
+margin:10px;
+width:80%;
+margin-left:30px;
+color: #ffffff;
+}
+#progress-bar {
+background-color: #638f06;
+}
+h4 {
+margin-left:15px;
+color: #444444;
+}
+.image{
+width:auto;
+height:auto;
+text-align: center;
+}
+#container-2 {
+  margin: 0;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #444444;
+}
